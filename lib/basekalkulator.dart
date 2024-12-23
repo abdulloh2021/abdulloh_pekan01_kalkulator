@@ -21,7 +21,7 @@ void main() {
     print("Hasil dari $operator adalah $hasil");
   }
 
-  // Panggil fungsi _hitung dengan operator tertentu
+  // Panggil fungsi _hitung
   _hitung('+');
   _hitung('-');
   _hitung('*');
